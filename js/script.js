@@ -1,6 +1,4 @@
-const BASE_URL = "./";
-
-// lista global com todos os usuários do JSON
+  // lista global com todos os usuários do JSON
   let usuariosTodos = [];
 
   function carregarSidebarUsuario() {
@@ -186,7 +184,7 @@ const BASE_URL = "./";
         cab.className = "post-header";
 
         const avatar = document.createElement("img");
-        avatar.src = BASE_URL + usuario.fotoPerfil;
+        avatar.src = u.fotoPerfil;
         avatar.className = "post-avatar";
         avatar.dataset.email = u.email;
 
