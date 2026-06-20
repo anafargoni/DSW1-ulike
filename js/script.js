@@ -600,7 +600,7 @@ function salvarPostUsuario(tipo, conteudo, legenda = "") {
         conteudo,
         legenda,
         nome: usuario.nome,
-        foto: usuario.fotoPerfil || "imagens/foto-de-perfil.png",
+        foto: usuario.fotoPerfil || "./imagens/foto-de-perfil.png",
         data: Date.now()
     });
 
