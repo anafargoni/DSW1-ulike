@@ -2,19 +2,13 @@
 
 Rede social simples feita com HTML, CSS e JavaScript puro.
 
----
-
 ## 🚀 Acesse o site
-https://anafargoni.github.io/ulike/
-
----
+[https://anafargoni.github.io/DSW1-ulike/](https://anafargoni.github.io/DSW1-ulike/)
 
 ## 📌 Sobre
 
 Projeto de uma rede social fictícia com dados simulados via JSON.  
 Não possui backend nem banco de dados.
-
----
 
 ## ⚙️ Funciona com
 
@@ -22,8 +16,6 @@ Não possui backend nem banco de dados.
 - Feed de posts de usuários
 - Perfis de usuários
 - Curtidas e comentários (não são salvos após atualizar)
-
----
 
 ## ⚠️ Importante
 
